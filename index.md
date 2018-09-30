@@ -1,6 +1,8 @@
 ## Welcome to GitHub Pages
-[huhn](huhn.md)
+
 You can use the [editor on GitHub](https://github.com/pedder55655/test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+[huhn](huhn.md)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
